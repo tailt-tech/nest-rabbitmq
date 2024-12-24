@@ -1,6 +1,6 @@
 {
   "name": "@hirodev/nestjs-rabbitmq",
-  "version": "1.0.5",
+  "version": "1.0.7",
   "description": "Rabbitmq component for NestJs.",
   "main": "dist/index.js",
   "scripts": {
