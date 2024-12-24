@@ -1,6 +1,6 @@
 {
   "name": "nest-rabbitmq",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A custom NestJs RabbitMQ library with pattern",
   "main": "dist/index.js",
   "scripts": {
