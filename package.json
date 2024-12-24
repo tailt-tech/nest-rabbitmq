@@ -1,6 +1,6 @@
 {
   "name": "nest-rabbitmq",
-  "version": "1.0.5",
+  "version": "1.0.0",
   "description": "A custom NestJs RabbitMQ library with pattern",
   "main": "dist/index.js",
   "scripts": {
@@ -17,6 +17,10 @@
     "type": "git",
     "url": "git+https://github.com/tailt-tech/nest-rabbitmq.git"
   },
+  "bugs": {
+    "url": "https://github.com/tailt-tech/nest-rabbitmq/issues"
+  },
+  "homepage": "https://github.com/tailt-tech/nest-rabbitmq#readme",
   "peerDependencies": {
     "@nestjs/common": "^10.0.0",
     "@nestjs/core": "^10.0.0"
