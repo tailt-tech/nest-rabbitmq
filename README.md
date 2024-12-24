@@ -13,12 +13,12 @@ Let people know what your project can do specifically. Provide context and add a
 ## Installation
 ***Yarn***
 ```bash
-  yarn add tailt-rabbitmq
+  yarn add @tailt9/nestjs-rabbitmq
 ```
 
 ***NPM***
 ```bash
-  npm install tailt-rabbitmq --save
+  npm install @tailt9/nestjs-rabbitmq --save
 ```
 
 ## Usage
