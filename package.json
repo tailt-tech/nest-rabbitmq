@@ -1,8 +1,9 @@
 {
-  "name": "@hirodev/nestjs-rabbitmq",
-  "version": "1.0.7",
+  "name": "@tailt9/nestjs-rabbitmq",
+  "version": "1.0.5",
   "description": "Rabbitmq component for NestJs.",
   "main": "dist/index.js",
+  "files": ["dist"],
   "scripts": {
     "build": "nest build",
     "prepublishOnly": "npm run build"
@@ -37,5 +38,6 @@
     "typescript": "^5.7.2",
     "webpack": "^5.97.1",
     "webpack-cli": "^6.0.1"
-  }
+  },
+  "packageManager": "yarn@4.5.3+sha512.3003a14012e2987072d244c720506549c1aab73ee728208f1b2580a9fd67b92d61ba6b08fe93f6dce68fd771e3af1e59a0afa28dd242dd0940d73b95fedd4e90"
 }
